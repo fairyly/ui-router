@@ -1,5 +1,5 @@
 # AngularUI Router &nbsp;[![Build Status](https://travis-ci.org/angular-ui/ui-router.svg?branch=master)](https://travis-ci.org/angular-ui/ui-router)
-
+`最下方有demo`
 **Note: this is the Angular 1.x source for UI-Router version 1.0 alpha.  If you are looking for the source for UI-Router 
 version 0.2.x, it can be found [here](https://github.com/angular-ui/ui-router/tree/legacy)**
 
@@ -248,7 +248,7 @@ myApp.config(function($stateProvider) {
 
 Please read our [Contributor guidelines](CONTRIBUTING.md) before reporting an issue or creating a pull request.
 
-#demo
+#完整的demo
 ```html
 <!DOCTYPE html>
 <html ng-app="myapp">
